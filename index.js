@@ -20,8 +20,8 @@ function sayHiToGrandma(string) {
   var uppercase = string;
   lowercase.toLowerCase() === lowercase;
   mixedcase.toLowerCase() === mixedcase;
-  if (lowercase=true)
-  console.log("I can't hear you!");
+  /*if (lowercase=true)
+  return("I can't hear you!");*/
   if (mixedcase=false)
   console.log("I can't hear you!");
   uppercase.toUpperCase() === uppercase;
