@@ -23,14 +23,14 @@ function sayHiToGrandma(string) {
   /*if (lowercase=true)
   return("I can't hear you!");*/
   if (mixedcase=false)
-  console.log("I can't hear you!");
+  return("I can't hear you!");
   uppercase.toUpperCase() === uppercase;
   if (uppercase=true)
-  console.log("YES INDEED!");
+  return("YES INDEED!");
   
   var love = string;
   if (love = "I love you, Grandma.")
-  console.log("I love you, too.");
+  return("I love you, too.");
 } 
 
 /*function sayHiToGrandma(string) {
